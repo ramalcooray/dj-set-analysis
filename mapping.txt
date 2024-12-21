@@ -1,0 +1,76 @@
+In Adjust Left,note_on,channel=0,note=16
+Out Adjust Left,note_on,channel=0,note=17
+Reloop/exit Left,note_on,channel=0,note=77
+Cue loop 1/2x Left,note_on,channel=0,note=81
+Cue loop 2x Left,note_on,channel=0,note=83
+Beat Sync Left,note_on,channel=0,note=83
+Left Disc,control_change,channel=0,control=34
+Shift Left,note_on,channel=0,note=63
+Hot Cue Left,note_on,channel=0,note=27
+Beat Loop Left,note_on,channel=0,note=109
+Beat Jump Left,note_on,channel=0,note=32
+Sampler Left,note_on,channel=0,note=34
+Cue Left,note_on,channel=0,note=12
+Play/Pause Left,note_on,channel=0,note=11
+Pad 1 Left,note_on,channel=7,note=0
+Pad 2 Left,note_on,channel=7,note=1
+Pad 3 Left,note_on,channel=7,note=2
+Pad 4 Left,note_on,channel=7,note=3
+Pad 5 Left,note_on,channel=7,note=4
+Pad 6 Left,note_on,channel=7,note=5
+Pad 7 Left,note_on,channel=7,note=6
+Pad 8 Left,note_on,channel=7,note=7
+Tempo Control Left,control_change,channel=0,control=0
+Headphones,control_change,channel=6,control=12
+Level,control_change,channel=6,control=13
+Related Tracks,note_on,channel=6,note=70
+Back,control_change,channel=6,control=64
+View,note_on,channel=6,note=71
+Trim Left,control_change,channel=0,control=4
+Hi Channel Left,control_change,channel=0,control=7
+Mid Channel Left,control_change,channel=0,control=11
+Low Channel Left,control_change,channel=0,control=15
+Filter Left,control_change,channel=6,control=23
+Cue Left,note_on,channel=0,note=84
+Volume Left,control_change,channel=0,control=19
+Mix Control,control_change,channel=6,control=31
+Trim Right,control_change,channel=1,control=4
+Hi Channel Right,control_change,channel=1,control=7
+Mid Channel Right,control_change,channel=1,control=11
+Low Channel Right,control_change,channel=1,control=15
+Filter Right,control_change,channel=6,control=24
+Cue Right,note_on,channel=1,note=84
+Volume Right,control_change,channel=1,control=19
+Master Volume,control_change,channel=6,control=8
+Master Volume Cue,note_on,channel=6,note=99
+Beat Auto,note_on,channel=4,note=74
+Beat Tap,note_on,channel=4,note=75
+FX Select,note_on,channel=4,note=99
+Channel Switch Left,note_on,channel=4,note=16
+Channel Switch Right,note_on,channel=4,note=17
+Channel Switch Master,note_on,channel=4,note=20
+Level Depth,control_change,channel=6,control=2
+On Off,note_on,channel=4,note=71
+In Adjust Right,note_on,channel=1,note=16
+Out Adjust Right,note_on,channel=1,note=17
+Reloop/exit Right,note_on,channel=1,note=77
+Cue loop 1/2x Right,note_on,channel=1,note=81
+Cue loop 2x Right,note_on,channel=1,note=83
+Beat Sync Right,note_on,channel=1,note=83
+Right Disc,control_change,channel=1,control=34
+Shift Right,note_on,channel=1,note=63
+Hot Cue Right,note_on,channel=1,note=27
+Beat Loop Right,note_on,channel=1,note=109
+Beat Jump Right,note_on,channel=1,note=32
+Sampler Right,note_on,channel=1,note=34
+Cue Right,note_on,channel=1,note=12
+Play/Pause Right,note_on,channel=1,note=11
+Pad 1 Right,note_on,channel=9,note=0
+Pad 2 Right,note_on,channel=9,note=1
+Pad 3 Right,note_on,channel=9,note=2
+Pad 4 Right,note_on,channel=9,note=3
+Pad 5 Right,note_on,channel=9,note=4
+Pad 6 Right,note_on,channel=9,note=5
+Pad 7 Right,note_on,channel=9,note=6
+Pad 8 Right,note_on,channel=9,note=7
+Tempo Control Right,control_change,channel=1,control=0
